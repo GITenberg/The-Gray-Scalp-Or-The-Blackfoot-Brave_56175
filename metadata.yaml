@@ -1,11 +1,16 @@
 _repo: The-Gray-Scalp-Or-The-Blackfoot-Brave_56175
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Willett, Edward
     gutenberg_agent_id: '48706'
     url: http://www.gutenberg.org/2009/agents/48706
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56175#The-Gray-Scalp-Or-The-Blackfoot-Brave
 gutenberg_issued: '2017-12-13'
 gutenberg_type: Text
 identifiers:
